@@ -23,5 +23,13 @@ This project was originally created by https://github.com/Ranjith-Suranga and I 
 + The side (AI player / Human Player) who allign the balls 1 st **WIN THE GAME** .
 
 
+### Version
+0.0.5
+
+### License
+Copyright © 2022 DEP. All rights reserved
+This project is licensed under the MIT License.
+
+
 ### ENJOY 😉
 
