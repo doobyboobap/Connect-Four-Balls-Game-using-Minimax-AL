@@ -7,7 +7,7 @@ This project was originally created by https://github.com/Ranjith-Suranga and I 
 
 ## How to use this repo
 
-+ git clone https://github.com/Ranjith-Suranga/connect-four-game-assignment.git
++ git clone https://github.com/doobyboobap/Connect-Four-Balls-Game-using-Minimax-AL.git
 + Open the **pom.xml** via IntelliJ IDEA
 + Make sure to the open it as a project, if prompt
 + Reload the  pom.xml  file via Maven Tool Window
