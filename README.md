@@ -24,7 +24,7 @@ This project was originally created by https://github.com/Ranjith-Suranga and I 
 
 
 ### Version
-0.0.5
+1.0.0
 
 ### License
 Copyright © 2022 DEP. All rights reserved
